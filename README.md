@@ -1,0 +1,2 @@
+# AlbumDB
+Haskell Functional Programming
